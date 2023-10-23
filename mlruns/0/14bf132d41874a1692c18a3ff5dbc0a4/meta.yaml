@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/MLFLOW/mlruns/0/14bf132d41874a1692c18a3ff5dbc0a4/artifacts
+end_time: 1698075413306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14bf132d41874a1692c18a3ff5dbc0a4
+run_name: silent-lynx-168
+run_uuid: 14bf132d41874a1692c18a3ff5dbc0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698075406719
+status: 3
+tags: []
+user_id: hp

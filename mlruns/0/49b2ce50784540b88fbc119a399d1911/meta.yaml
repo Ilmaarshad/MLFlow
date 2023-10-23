@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/MLFLOW/mlruns/0/49b2ce50784540b88fbc119a399d1911/artifacts
+end_time: 1698009184270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49b2ce50784540b88fbc119a399d1911
+run_name: capable-goat-764
+run_uuid: 49b2ce50784540b88fbc119a399d1911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698009177022
+status: 3
+tags: []
+user_id: hp

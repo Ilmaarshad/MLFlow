@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/MLFLOW/mlruns/0/0906482c869142ab9a3ea0a77d1f0ca0/artifacts
+end_time: 1697774634998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0906482c869142ab9a3ea0a77d1f0ca0
+run_name: monumental-snipe-817
+run_uuid: 0906482c869142ab9a3ea0a77d1f0ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697774634925
+status: 3
+tags: []
+user_id: hp
